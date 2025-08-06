@@ -1,0 +1,18 @@
+dn: dc=nodomain
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: Example Organization
+dc: nodomain
+
+dn: ou=Friends,dc=nodomain
+objectClass: organizationalUnit
+ou: Friends
+
+dn: ou=Acquaintances,dc=nodomain
+objectClass: organizationalUnit
+ou: Acquaintances
+
+dn: ou=Enemies,dc=nodomain
+objectClass: organizationalUnit
+ou: Enemies

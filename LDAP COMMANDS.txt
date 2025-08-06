@@ -1,0 +1,7 @@
+LDAP COMMANDS
+
+SEARCH ALL FRIENDS = ldapsearch -x -b "ou=Friends,dc=nodomain" "(objectclass=*)"
+ldapsearch -x -b "ou=Friends,dc=nodomain" "(cn=Keanu Ellary)" telephoneNumber
+ldapadd -x -D "cn=admin,dc=nodomain" -W -f config.ldif
+
+CertUtil -hashfile prac5.java MD5

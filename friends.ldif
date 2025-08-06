@@ -1,0 +1,18 @@
+dn: cn=Ayush Beekum,ou=Friends,dc=nodomain
+objectClass: inetOrgPerson
+cn: Ayush Beekum
+sn: Beekum
+telephoneNumber: 0832955900
+
+dn: cn=Sashen Inder Gajai,ou=Friends,dc=nodomain
+objectClass: inetOrgPerson
+cn: Sashen Inder Gajai
+sn: Inder Gajai
+telephoneNumber: 0616635413
+
+dn: cn=Keanu Ellary,ou=Friends,dc=nodomain
+objectClass: inetOrgPerson
+cn: Keanu Ellary
+sn: Ellary
+telephoneNumber: 0795078284
+

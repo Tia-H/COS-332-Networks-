@@ -1,0 +1,11 @@
+dn: cn=Lord Voldemort,ou=Enemies,dc=nodomain
+objectClass: inetOrgPerson
+cn: Lord Voldemort
+sn: Voldemort
+telephoneNumber: 066999203
+
+dn: cn=Captain Gantu,ou=Enemies,dc=nodomain
+objectClass: inetOrgPerson
+cn: Captain Gantu
+sn: Gantu
+telephoneNumber: 0112223330
